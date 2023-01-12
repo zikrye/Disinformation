@@ -2,6 +2,8 @@
 Projection on disinformation
 <br/><br/>
 
+**File clarification**
+
 **raw_data**: Data downloaded directly from Brandwatch. 
 
 **bw.R**: code for combining fifteen disinformation data, including counting the number of tweets for each country for each topic, and selecting part of the tweets from the raw data to mark manually to identify whether the tweet is disinformation-related or not. 
